@@ -8,7 +8,7 @@ O foco foi criar uma interface limpa, responsiva e funcional, aproveitando os re
 
 **Visualize o projeto em ação acessando o link do GitHub Pages:**
 
-### **[https://edumoreiira.github.io/Frontendmentor\_Github-API\_Angular/](https://edumoreiira.github.io/Frontendmentor_Github-API_Angular/)**
+### **[https://edumoreiira.github.io/devfinder-Angular/](https://edumoreiira.github.io/devfinder-Angular/)**
 
 ## ✨ Funcionalidades
 
